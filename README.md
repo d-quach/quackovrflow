@@ -13,7 +13,6 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/code-C-informational?style=flat&logo=c)
     - ![](https://img.shields.io/badge/shell-Bash-informational?style=flat&logo=gnu-bash)
     - ![](https://img.shields.io/badge/os-Kali%20Linux-informational?style=flat&logo=kali-linux)
-    - ![](https://img.shields.io/badge/protocols-Networking-informational?style=flat&logo=cisco)
   - Learn new skills:
     - ![](https://img.shields.io/badge/code-node.js-informational?style=flat&logo=node.js)
     - ![](https://img.shields.io/badge/code-Angular-informational?style=flat&logo=angular)
