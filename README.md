@@ -16,7 +16,7 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/os-Kali%20Linux-informational?style=flat&logo=kali-linux)
 
   - Learn new skills:
-    - ![](https://img.shields.io/badge/runtime-node.js-informational?style=flat&logo=node.js)
+    - ![](https://img.shields.io/badge/runtime-Node.js-informational?style=flat&logo=node.js)
     - ![](https://img.shields.io/badge/framework-Angular-informational?style=flat&logo=angular)
     - ![](https://img.shields.io/badge/library-React-informational?style=flat&logo=react)
     - ![](https://img.shields.io/badge/language-Ruby-informational?style=flat&logo=ruby)
