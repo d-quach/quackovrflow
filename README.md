@@ -27,6 +27,7 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=microsoft-azure)
     - ![](https://img.shields.io/badge/container-Kubernetes-informational?style=flat&logo=kubernetes)
     - ![](https://img.shields.io/badge/container-Docker-informational?style=flat&logo=docker)
+    - ![](https://img.shields.io/badge/language-Go-informational?style=flat&logo=go)
 
 ---
 
