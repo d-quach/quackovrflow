@@ -13,6 +13,7 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/language-C-informational?style=flat&logo=c)
     - ![](https://img.shields.io/badge/scripting-PowerShell-informational?style=flat&logo=powershell)
     - ![](https://img.shields.io/badge/scripting-Bash-informational?style=flat&logo=gnu-bash)
+    - ![](https://img.shields.io/badge/containers-Docker-informational?style=flat&logo=docker)
 
   - Learn new skills:
     - ![](https://img.shields.io/badge/language-C%2B%2B-informational?style=flat&logo=c%2B%2B)
@@ -22,8 +23,7 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/language-Ruby-informational?style=flat&logo=ruby)
     - ![](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=amazon-aws)
     - ![](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=microsoft-azure)
-    - ![](https://img.shields.io/badge/container-Kubernetes-informational?style=flat&logo=kubernetes)
-    - ![](https://img.shields.io/badge/container-Docker-informational?style=flat&logo=docker)
+    - ![](https://img.shields.io/badge/containers-Kubernetes-informational?style=flat&logo=kubernetes)
     - ![](https://img.shields.io/badge/language-Go-informational?style=flat&logo=go)
 
 ---
