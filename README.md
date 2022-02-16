@@ -16,15 +16,16 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/containers-Docker-informational?style=flat&logo=docker)
 
   - Learn new skills:
+    - ![](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=amazon-aws)
+    - ![](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=microsoft-azure)
+    - ![](https://img.shields.io/badge/cloud-GCP-informational?style=flat&logo=google-cloud)
+    - ![](https://img.shields.io/badge/containers-Kubernetes-informational?style=flat&logo=kubernetes)
+    - ![](https://img.shields.io/badge/language-Go-informational?style=flat&logo=go)
+    - ![](https://img.shields.io/badge/language-Rust-informational?style=flat&logo=rust)
     - ![](https://img.shields.io/badge/language-C%2B%2B-informational?style=flat&logo=c%2B%2B)
     - ![](https://img.shields.io/badge/language-C%23-informational?style=flat&logo=c-sharp)
     - ![](https://img.shields.io/badge/framework-.NET-informational?style=flat&logo=.net)
     - ![](https://img.shields.io/badge/library-React-informational?style=flat&logo=react)
-    - ![](https://img.shields.io/badge/language-Ruby-informational?style=flat&logo=ruby)
-    - ![](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=amazon-aws)
-    - ![](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=microsoft-azure)
-    - ![](https://img.shields.io/badge/containers-Kubernetes-informational?style=flat&logo=kubernetes)
-    - ![](https://img.shields.io/badge/language-Go-informational?style=flat&logo=go)
 
 ---
 
