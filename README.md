@@ -1,4 +1,4 @@
-Hi, my name is Dan.  
+Hi my name is Dan.  
 However, you can call me Quack. :duck:  
 These repositories will document my journey as a software developer.
 
@@ -29,4 +29,4 @@ These repositories will document my journey as a software developer.
 
 ---
 
-Check out my [LinkedIn](https://www.linkedin.com/in/quackovrflow/) account, and [WordPress](https://quackovrflow.wordpress.com) blog too.
+Check out my [LinkedIn](https://www.linkedin.com/in/quackovrflow/) account and [WordPress](https://quackovrflow.wordpress.com) blog.
