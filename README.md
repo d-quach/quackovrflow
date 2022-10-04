@@ -19,9 +19,10 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/orchestration-Kubernetes-informational?style=flat&logo=kubernetes)
     - ![](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=mongodb)
     - ![](https://img.shields.io/badge/language-Ruby-informational?style=flat&logo=ruby)
+    - ![](https://img.shields.io/badge/framework-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails)
+    - ![](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=amazon-aws)
 
   - Learn new skills:
-    - ![](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=amazon-aws)
     - ![](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=microsoft-azure)
     - ![](https://img.shields.io/badge/cloud-GCP-informational?style=flat&logo=google-cloud)
     - ![](https://img.shields.io/badge/language-C%2B%2B-informational?style=flat&logo=c%2B%2B)
