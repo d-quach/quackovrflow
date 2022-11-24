@@ -21,6 +21,8 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/language-Ruby-informational?style=flat&logo=ruby)
     - ![](https://img.shields.io/badge/framework-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails)
     - ![](https://img.shields.io/badge/cloud-AWS-informational?style=flat&logo=amazon-aws)
+    - ![](https://img.shields.io/badge/language-C%23-informational?style=flat&logo=csharp)
+    - ![](https://img.shields.io/badge/framework-%2ENET-informational?style=flat&logo=.net)
 
   - Learn new skills:
     - ![](https://img.shields.io/badge/cloud-Azure-informational?style=flat&logo=microsoft-azure)
@@ -29,8 +31,7 @@ These repositories will document my journey as a software developer.
     - ![](https://img.shields.io/badge/language-Rust-informational?style=flat&logo=rust)
     - ![](https://img.shields.io/badge/library-React-informational?style=flat&logo=react)
     - ![](https://img.shields.io/badge/framework-Angular-informational?style=flat&logo=angular)
-    - ![](https://img.shields.io/badge/language-C%23-informational?style=flat&logo=csharp)
-    - ![](https://img.shields.io/badge/framework-%2ENET-informational?style=flat&logo=.net)
+    - ![](https://img.shields.io/badge/language-TypeScript-informational?style=flat&logo=typescript)
     
 
 ---
